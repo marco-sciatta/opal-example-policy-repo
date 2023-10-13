@@ -1,2 +1,3 @@
 utils.rego
 rbac.rego
+envoy/auth/rule.rego
